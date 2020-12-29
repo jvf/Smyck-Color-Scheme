@@ -1,3 +1,27 @@
+# Fork
+
+This is a fork of [Smyck Color Scheme] that takes `smyck.vim` and organizes it as a vim package. Everything else is deleted.
+
+## Installation
+
+Inside `.vim/`:
+
+```bash
+$ git clone git@github.com:jvf/Smyck-Color-Scheme.git pack/<you-plugin-dir>/start/
+```
+
+Add the following to your `vimrc`:
+
+```vim
+colorscheme smyck
+```
+
+[Smyck Color Scheme]: https://github.com/hukl/Smyck-Color-Scheme
+
+<br>
+
+------------------------------------------------
+
 # Smyck Color Scheme
 
 This is a color scheme suitable for Terminal.app, iTerm2, Vim, gVim,
